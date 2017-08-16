@@ -3,4 +3,5 @@
 2017-08-16 update:
 added first note on readme file
 
-a different line for conflicting
+a line added for conflicting
+
