@@ -2,3 +2,5 @@
 
 2017-08-16 update:
 added first note on readme file
+
+a line added for conflicting
